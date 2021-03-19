@@ -2,6 +2,8 @@
   "name": "react_tutorial",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mawwal-ecpi.github.io/react_tutorial/
+  ",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
